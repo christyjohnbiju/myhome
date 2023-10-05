@@ -167,7 +167,7 @@
  {
     display: inline-block;
     vertical-align: left;
-    margin-right: 40px; 
+    margin-right: 50px; 
 }
 .navbar-brand {
     text-align: center;
@@ -188,18 +188,4 @@
 
 }
 
-    @media (max-width: 768px) 
-    {
-        navbar-brand  {
-            margin-left: 10px; 
-        }
-        
-        
-        .navbar img {
-            display: inline-block;
-            vertical-align: left;
-            margin-right: 58px; 
-        }
-        
-    }
 
